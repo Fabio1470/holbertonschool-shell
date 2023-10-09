@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 753 hello |touch -a 2020-07-23 14:25:00 hello |
+chmod 753 hello |touch -a 2020-07-23 14:25:00 hello |chown julien:julien
