@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R +111 --current-dir --avoid_regular_file 
+chmod -R a+x . 
