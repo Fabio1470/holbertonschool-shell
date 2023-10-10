@@ -1,2 +1,2 @@
 #!/bin/bash
-if [%USERNAME%=guillaume] then sudo chown vincent hello
+if [$(id -u)=guillaume] then sudo chown vincent hello 
