@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R +111 --current_dir.
+chmod +R +111 /..
