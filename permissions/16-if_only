@@ -1,0 +1,2 @@
+#!/bin/bash
+if [$(find -user --file)=guillaume] then sudo chown vincent
