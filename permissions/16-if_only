@@ -1,2 +1,2 @@
 #!/bin/bash
-if [$(stat --printf=%U)=guillaume]then sudo chown vincent hello 
+if [$(stat --printf=%U)=guillaume] then sudo chown vincent hello 
