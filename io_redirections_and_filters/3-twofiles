@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -a /etc/passwr < cat -A  /etc/hosts
+cat -AT /etc/passwr < cat -AT  /etc/hosts
