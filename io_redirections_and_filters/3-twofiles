@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -AT /etc/passwr < cat -AT  /etc/hosts
+cat /etc/[passwd-host]
