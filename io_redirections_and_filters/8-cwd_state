@@ -1,2 +1,2 @@
-#!/bin/bash
-commande=$(ls -la) echo $commande > 'ls_cwd_content'
+#!/bin/bash 
+ls -la |echo > 'ls_cwd_content'
