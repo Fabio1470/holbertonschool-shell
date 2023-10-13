@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -l < ls -1aRd */ 
+ls -1 -aRd */ |wc -l
