@@ -1,2 +1,2 @@
 #!/bin/bash
-tr "cC" "\b\b"
+tr "cC" "[:blank:][:blank:]"
