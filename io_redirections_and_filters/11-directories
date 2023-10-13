@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -l < ls -Rad1
+ls -1aRd | wc -l
